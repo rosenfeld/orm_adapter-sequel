@@ -25,3 +25,7 @@ Copyright
 ---------
 
 Copyright (c) 2011 Don Morrison (elskwid). See LICENSE for details.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rosenfeld/orm_adapter-sequel/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
